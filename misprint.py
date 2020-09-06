@@ -89,7 +89,7 @@ if not args.city:
 else:
     cityarg = f'city {args.city}'
 #
-shodanresults = shodanbot.search(f'port 9100 {countryarg} {orgarg} {cityarg} PJL')
+shodanresults = shodanbot.search(f'9100 {countryarg} {orgarg} {cityarg}')
 total = str(shodanresults['total'])
 if shodanresults['total'] < 1:
     red('No Targets Found. Are your search terms correct?')
@@ -196,7 +196,7 @@ def printerpwn(ipaddrs, raw):
 
 
 yellow(f'Collecting File {args.file}...')
-with open(args.file, 'r') as file:
+with open(args.file, 'rb') as file:
     raw = file.read()
     green(f'Data from {args.file} Collected!')
     printerpwn(ipaddrs, raw)
