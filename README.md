@@ -21,6 +21,11 @@
   <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fspicesouls%2Fmisprint"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https://github.com/spicescan"></a> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SpicySoulsV?style=social">
 </p>
 
+<p align="center">
+            **! I am NOT responsible for any way you use this tool, this is for educational purposes !**
+
+</p>
+
 ### Table of Contents
 * [Guide](#guide)
   * [Installation](#installation)
@@ -86,3 +91,4 @@ This is an optional argument for **Misprint** to narrow down which organization 
   ·
   <a href="https://steamcommunity.com/id/SpiceSouls/">Steam</a>
 </p>
+
