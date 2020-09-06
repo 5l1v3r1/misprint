@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-            **! I am NOT responsible for any way you use this tool, this is for educational purposes !**
+            <b>! I am NOT responsible for any way you use this tool, this is for educational purposes !</b>
 
 </p>
 
