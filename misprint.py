@@ -89,7 +89,7 @@ if not args.city:
 else:
     cityarg = f'city {args.city}'
 #
-shodanresults = shodanbot.search(f'9100 {countryarg} {orgarg} {cityarg}')
+shodanresults = shodanbot.search(f'PJL {countryarg} {orgarg} {cityarg}')
 total = str(shodanresults['total'])
 if shodanresults['total'] < 1:
     red('No Targets Found. Are your search terms correct?')
